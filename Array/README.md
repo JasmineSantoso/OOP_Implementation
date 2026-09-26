@@ -8,16 +8,16 @@ Program menggunakan method yang ada pada class untuk semua operasi.
 ## Struktur Program
 Program terdiri dari 4 class, yaitu:
 
-Account.java
+`Account.java`
 Digunakan untuk menyimpan informasi saldo dan terdapat method untuk melakukan deposit, withdraw, serta melihat saldo.
 
-Customer.java
+`Customer.java`
 Digunakan untuk menyimpan informasi customer, yaitu nama depan, nama belakang, dan account yang dimiliki.
 
-Bank.java
+`Bank.java`
 Digunakan untuk menyimpan customer dalam sebuah array dan menyediakan method untuk menambahkan serta mengambil customer.
 
-Welcome.java
+`Welcome.java`
 Adalah main program untuk membuat object dan mengeksplorasi penggunaan class, array, dan method.
 
 ## Fitur Program
