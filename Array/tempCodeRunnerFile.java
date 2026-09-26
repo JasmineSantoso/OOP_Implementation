@@ -1,0 +1,1 @@
+System.out.println("Deposit gagal! Jumlah harus lebih dari 0.");
