@@ -43,7 +43,7 @@ Program terdiri dari satu abstract class, dua interface, dan tiga concrete class
 
 ## 4. Class Diagram
 
-![alt text](<Screenshot 2026-10-27 103723.png>)
+![alt text](<Class_Diagram.png>)
 
 ## 5. Implementasi Abstract Class
 
@@ -213,3 +213,6 @@ Abstract class `Pembayaran` digunakan untuk menyediakan struktur dasar dan peril
 Melalui inheritance dan method overriding, setiap subclass dapat menggunakan struktur yang sama sambil menerapkan logika pembayaran sesuai karakteristiknya.
 
 Dengan demikian, program ini menunjukkan perbedaan fungsi abstract class dan interface serta bagaimana keduanya dapat digunakan bersama untuk menghasilkan desain program yang lebih terstruktur dan mudah dikembangkan.
+
+## Output
+![alt text](<Output_Bank.png>)
