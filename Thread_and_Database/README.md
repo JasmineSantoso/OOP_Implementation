@@ -92,8 +92,6 @@ CREATE TABLE mahasiswa (
 
 ### 3. Insert Sample Data
 
-You can insert some initial records to test the application.
-
 ```sql
 INSERT INTO mahasiswa (nama, prodi)
 VALUES
@@ -103,8 +101,6 @@ VALUES
 ```
 
 ### 4. Configure the Database Connection
-
-Open `DBConnection.java` and adjust the database credentials if necessary.
 
 ```java
 private static final String URL =
